@@ -16,15 +16,14 @@
 Hello! I'm a passionate tech enthusiast with a solid foundation in programming and web development. I'm proficient in Python, Java and have experience with HTML, CSS, React.js, and Node.js. I’m particularly interested in Full Stack Development, Machine Learning and Data Analysis. I enjoy tackling challenges, learning new skills, and working on innovative projects.
 
 ---
-
 # 💻 Tech Stack
 
 **Languages:** Java • Python • JavaScript • C • SQL
-**Frontend:** React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Framer Motion
-**Backend:** Node.js • Express.js • Flask • FastAPI
-**Databases:** MongoDB • MySQL • MongoDB Atlas
-**AI/ML:** TensorFlow • Scikit-learn • Pandas • NumPy •  Google Gemini API
-**Tools & Platforms:** Git • GitHub • VS Code • Postman • Vercel • Netlify • Render
+**Frontend:**  React.js • Next.js • HTML5 • CSS3 • Tailwind CSS • Framer Motion
+**Backend:**  Node.js • Express.js • Flask • FastAPI
+**Databases:**  MongoDB • MySQL • MongoDB Atlas
+**AI/ML:**  TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV • Google Gemini API
+**Tools & Platforms:**  Git • GitHub • VS Code • Postman • Vercel • Netlify • Render
 ---
 
 # 🌟 Featured Projects
