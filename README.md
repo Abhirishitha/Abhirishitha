@@ -8,15 +8,12 @@
 💼 **LinkedIn:** https://www.linkedin.com/in/abhirishitha-naraharisetti-367aba292/  
 💻 **GitHub:** https://github.com/Abhirishitha  
 🧩 **LeetCode:** https://leetcode.com/u/Abhirishitha_Naraharisetti/  
-📧 **Email:** <your-email@gmail.com>
+📧 **Email:** abhirishithanaraharisetti@gmail.com
 
 ---
 
 # 🚀 About Me
-
-I'm a Computer Science Engineering student passionate about building impactful software using **Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies**.
-
-I enjoy transforming ideas into real-world applications through scalable web development, intelligent systems, and data-driven solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
+Hello! I'm a passionate tech enthusiast with a solid foundation in programming and web development. I'm proficient in Python, Java and have experience with HTML, CSS, React.js, and Node.js. I’m particularly interested in Full Stack Development, Machine Learning and Data Analysis. I enjoy tackling challenges, learning new skills, and working on innovative projects.
 
 ---
 
@@ -27,17 +24,14 @@ I enjoy transforming ideas into real-world applications through scalable web dev
 - Java
 - Python
 - JavaScript
-- TypeScript
-- SQL
+- C
 
 ### Frontend
 
 - React.js
 - Next.js
 - HTML5
-- CSS3
-- Tailwind CSS
-- Framer Motion
+- CSS
 
 ### Backend
 
@@ -57,8 +51,6 @@ I enjoy transforming ideas into real-world applications through scalable web dev
 - Scikit-learn
 - Pandas
 - NumPy
-- OpenCV
-- CNN
 - Google Gemini API
 
 ### Tools & Platforms
@@ -100,13 +92,13 @@ I enjoy transforming ideas into real-world applications through scalable web dev
 
 # 📜 Certifications
 
-- AWS Academy AI & Machine Learning Foundations
-- Microsoft AI & Cloud Virtual Internship
-- Google AI Skill Badges
-- NPTEL Programming & DSA
+- AWS Academy Cloud Foundations &Data Engineering
+- Data Analysis using Python By APSSDC
+- Google Skill Cloud Foundations
+- NPTEL Affective Computing & Foundations of VR And AR
 - HackerRank Java & SQL
-- Coursera AI & Python
-- Smart Interviews DSA
+- Celonis AI
+- MERN Stack By Bodha Soft
 
 ---
 
@@ -115,30 +107,16 @@ I enjoy transforming ideas into real-world applications through scalable web dev
 - Artificial Intelligence
 - Agentic AI
 - MERN Stack Development
-- Cloud Computing (AWS)
 - Data Structures & Algorithms
-- System Design
 
 ---
 
 # 🤝 Connect With Me
 
-🌐 Portfolio  
-https://agent-6a5dfdad53b9de0743b--abhirishithaportfolio.netlify.app/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/abhirishitha-naraharisetti-367aba292/
-
-💻 GitHub  
-https://github.com/Abhirishitha
-
-🧩 LeetCode  
-https://leetcode.com/u/Abhirishitha_Naraharisetti/
-
-📧 Email  
-your-email@gmail.com
-
----
+🌐 **[Portfolio](https://agent-6a5dfdad53b9de0743b--abhirishithaportfolio.netlify.app/)** •
+💼 **[LinkedIn](https://www.linkedin.com/in/abhirishitha-naraharisetti-367aba292/)** •
+💻 **[GitHub](https://github.com/Abhirishitha)** •
+🧩 **[LeetCode](https://leetcode.com/u/Abhirishitha_Naraharisetti/)**
 
 > **"Building intelligent solutions that solve real-world problems through AI and Full Stack Development."**
 
