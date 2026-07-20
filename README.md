@@ -110,20 +110,6 @@ I enjoy transforming ideas into real-world applications through scalable web dev
 
 ---
 
-# 📊 GitHub Stats
-
-> Add these after creating your profile README.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirishitha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirishitha&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhirishitha&theme=tokyonight)
-```
-
----
-
 # 🎯 Currently Exploring
 
 - Artificial Intelligence
