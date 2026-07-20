@@ -20,19 +20,20 @@ Hello! I'm a passionate tech enthusiast with a solid foundation in programming a
 
 # 💻 Tech Stack & Skills
 
-**Languages:** Java, Python, JavaScript, C, SQL
+**Languages:** Java, Python, C
 
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Framer Motion
+**Frontend:** React.js, HTML5, CSS3,JavaScript
 
 **Backend:** Node.js, Express.js, Flask, FastAPI
 
-**Database:** MongoDB, MySQL, MongoDB Atlas
+**Database:** MongoDB, MySQL
 
-**AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, Google Gemini API
+**AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy, Google Gemini API
 
 **Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify, Render
 
-**Other Areas:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS, Operating Systems (OS), REST APIs
+**Other Areas :**  DSA,OOPS, DBMS,OS
+
 ---
 
 # 🌟 Featured Projects
