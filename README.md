@@ -16,7 +16,6 @@
 Hello! I'm a passionate tech enthusiast with a solid foundation in programming and web development. I'm proficient in Python, Java and have experience with HTML, CSS, React.js, and Node.js. I’m particularly interested in Full Stack Development, Machine Learning and Data Analysis. I enjoy tackling challenges, learning new skills, and working on innovative projects.
 
 ---
-# 💻 Tech Stack
 
 # 💻 Tech Stack & Skills
 
